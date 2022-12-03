@@ -1,0 +1,9 @@
+.style-for-chart{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+.bar-styling{
+    margin-top: 40px;;
+}
